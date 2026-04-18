@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Salisu M. Indabawa
 
-<!--
-**salizee/salizee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 ICT Professional | Android Developer | Data Scientist
 
-Here are some ideas to get you started:
+I build real-world solutions using **Android, Java, Python, and Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+
+### ♻️ Smart Waste Management System (Android App)
+
+A mobile application designed to improve waste collection and reporting systems.
+
+🔹 Java Android App  
+🔹 Room Database  
+🔹 User & Admin dashboards  
+🔹 Clean UI design  
+
+👉 [View Project](https://github.com/salizee/SmartWasteManagement)
+
+---
+
+## 🛠️ Skills
+
+- Android Development (Java)
+- Python (Data Science & ML)
+- Web Development (HTML, CSS, JS)
+- Database Systems (SQLite, Room)
+- Git & GitHub
+
+---
+
+## 📊 Interests
+
+- Mobile App Development
+- AI & Machine Learning
+- Public Health Tech Systems
+- Smart City Solutions
+
+---
+
+## 📫 Contact
+
+Email: salisuindabawa@gmail.com  
+Location: Nigeria 🇳🇬  
+
+---
+
+⭐ Always learning, always building.
