@@ -1,50 +1,85 @@
-# 👋 Hi, I'm Salisu M. Indabawa
-
-## 💻 ICT Professional | Android Developer | Data Scientist
-
-I build real-world solutions using **Android, Java, Python, and Data Science**.
+<!-- HERO HEADER -->
+<h1 align="center">Hi 👋, I'm Salisu M. Indabawa</h1>
+<h3 align="center">ICT Professional | Android Developer | Data Scientist | Problem Solver</h3>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 About Me
+
+- 💻 I build Android apps using Java & Android Studio  
+- 📊 I work with Data Science & Machine Learning (Python)  
+- 🌍 Passionate about solving real-world problems with tech  
+- ♻️ Creator of Smart Waste Management System  
+- 🎯 Focused on Mobile Apps, AI & Backend Systems  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4479A1?style=for-the-badge)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Featured Project
 
 ### ♻️ Smart Waste Management System (Android App)
 
-A mobile application designed to improve waste collection and reporting systems.
+A mobile application designed to improve waste management efficiency through digital request systems.
 
-🔹 Java Android App  
-🔹 Room Database  
-🔹 User & Admin dashboards  
-🔹 Clean UI design  
+- ✔ Java Android App  
+- ✔ Room Database  
+- ✔ Admin & User Dashboards  
+- ✔ Clean UI Design  
 
 👉 [View Project](https://github.com/salizee/SmartWasteManagement)
 
 ---
 
-## 🛠️ Skills
+## 📊 GitHub Stats
 
-- Android Development (Java)
-- Python (Data Science & ML)
-- Web Development (HTML, CSS, JS)
-- Database Systems (SQLite, Room)
-- Git & GitHub
-
----
-
-## 📊 Interests
-
-- Mobile App Development
-- AI & Machine Learning
-- Public Health Tech Systems
-- Smart City Solutions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salizee&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salizee&theme=radical" width="48%">
+</p>
 
 ---
 
-## 📫 Contact
+## 📈 Most Used Languages
 
-Email: salisuindabawa@gmail.com  
-Location: Nigeria 🇳🇬  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salizee&layout=compact&theme=radical" width="50%">
+</p>
 
 ---
 
-⭐ Always learning, always building.
+## 🌍 Connect With Me
+
+- 📧 Email: salisuindabawa@gmail.com  
+- 📍 Nigeria  
+- 💼 Open to Android & Data Science opportunities  
+
+---
+
+## 💡 Quote I Live By
+
+> “Technology is best when it brings real-world impact.”
+
+---
+
+⭐ Thanks for visiting my profile!
