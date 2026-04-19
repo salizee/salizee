@@ -1,16 +1,20 @@
 <!-- HERO HEADER -->
 <h1 align="center">Hi 👋, I'm Salisu M. Indabawa</h1>
-<h3 align="center">ICT Professional | Android Developer | Data Scientist | Problem Solver</h3>
+<h3 align="center">ICT Professional | Android Developer | Data Scientist | Civic Tech Builder</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I build Android apps using Java & Android Studio  
-- 📊 I work with Data Science & Machine Learning (Python)  
-- 🌍 Passionate about solving real-world problems with tech  
-- ♻️ Creator of Smart Waste Management System  
-- 🎯 Focused on Mobile Apps, AI & Backend Systems  
+I am a passionate ICT professional focused on building technology-driven solutions for real-world challenges in health systems, governance, and community development.
+
+I specialize in transforming data into insights and developing scalable digital systems using modern programming tools.
+
+- 🔭 Currently working on: Smart Waste Management System (Android - Java)
+- 🌱 Currently learning: Machine Learning, AI, and Advanced Python for Data Science
+- 👯 Open to collaborate on: Data Science, Backend Systems, and Civic Tech Projects
+- 💬 Ask me about: Python, Java, Data Analysis, Web Development
+- ⚡ Interests: Technology for social impact and digital transformation in Africa
 
 ---
 
@@ -27,27 +31,35 @@
 
 ### 🗄️ Databases
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4479A1?style=for-the-badge)
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### ♻️ Smart Waste Management System (Android App)
+A mobile application designed to improve waste management efficiency through digital reporting and pickup request systems.
 
-A mobile application designed to improve waste management efficiency through digital request systems.
-
-- ✔ Java Android App  
-- ✔ Room Database  
-- ✔ Admin & User Dashboards  
-- ✔ Clean UI Design  
+- ✔ Java (Android Studio)
+- ✔ Room Database
+- ✔ User & Admin Dashboards
+- ✔ Clean UI & Structured Architecture
 
 👉 [View Project](https://github.com/salizee/SmartWasteManagement)
+
+---
+
+### 🧠 Disease Prediction System
+A machine learning-based healthcare prediction system for early disease detection and recommendation support.
+
+- ✔ Built with Python & Flask
+- ✔ Machine Learning Model Integration
+- ✔ Recommendation Engine
+- ✔ Generates downloadable reports
 
 ---
 
@@ -70,15 +82,15 @@ A mobile application designed to improve waste management efficiency through dig
 
 ## 🌍 Connect With Me
 
-- 📧 Email: salisuindabawa@gmail.com  
-- 📍 Nigeria  
-- 💼 Open to Android & Data Science opportunities  
+- 📧 Email: salisuindabawa@gmail.com
+- 📍 Nigeria
+- 💼 Open to Android, Data Science & Civic Tech opportunities
 
 ---
 
 ## 💡 Quote I Live By
 
-> “Technology is best when it brings real-world impact.”
+> “Technology is most powerful when it solves real human problems.”
 
 ---
 
